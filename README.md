@@ -1,6 +1,6 @@
 # rusty_crab_api
 
-Rust语言使用actix-web和SeaORM库，数据库使用PostgreSQL，开发增删改查项目，同时可以通过Swagger UI查看接口文档
+Rust语言使用Actix-web和SeaORM库，数据库使用PostgreSQL，开发增删改查项目，同时可以通过Swagger UI查看接口文档
 
 ## 开发
 
@@ -44,6 +44,10 @@ cargo run
 ```
 cargo doc --open
 ```
+
+![](./screenshot/Snipaste_2024-09-13_20-42-04.png)
+
+![](./screenshot/Snipaste_2024-09-13_20-42-16.png)
 
 ## 查看Swagger UI接口文档
 
